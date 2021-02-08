@@ -41,7 +41,7 @@ gem('bootstrap', '~> 4.3.1')
 # jquery gem for bootstrap 4 suport
 gem('jquery-rails')
 # gems forimage upload
-gem('carrierwave', '2.1.0')
+gem('carrierwave', '2.1.1')
 # mini magick gemfor upload image display
 gem('mini_magick', '4.10.1')
 # rubocop gem for style correction
